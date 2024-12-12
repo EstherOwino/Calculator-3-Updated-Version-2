@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.css-button{
+    color: white;
+    font-family: Arial;
+    font-size: 40px;
+}
+.button{
+    color: white;
+    background-color: rgb(51, 51, 51);
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    font-family: Arial;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.operator-button{
+    color: white;
+    background-color: gold;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    font-family: Arial;
+    font-size: 20px;
+    margin-right: 5px;
+}
